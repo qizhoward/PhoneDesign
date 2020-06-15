@@ -39,8 +39,8 @@
 
 
 
-Declaration of war
-せんそうせんげん
-戦争宣言
+Declaration of war</br>
+せんそうせんげん</br>
+戦争宣言</br>
 
 
